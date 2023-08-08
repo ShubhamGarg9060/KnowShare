@@ -10,7 +10,7 @@
     "config": {
       "SourceDir": "client/src",
       "DistributionDir": "client/public",
-      "BuildCommand": "npm.cmd run-script build",
+      "BuildCommand": "cd client ; npm.cmd run-script build",
       "StartCommand": "npm.cmd run-script start"
     }
   }
