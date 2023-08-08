@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-knowshare-staging-142749-authRole",
+      "UnauthRoleArn": "arn:aws:iam::001752503625:role/amplify-knowshare-staging-142749-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::001752503625:role/amplify-knowshare-staging-142749-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-knowshare-staging-142749-deployment",
+      "UnauthRoleName": "amplify-knowshare-staging-142749-unauthRole",
+      "StackName": "amplify-knowshare-staging-142749",
+      "StackId": "arn:aws:cloudformation:us-east-1:001752503625:stack/amplify-knowshare-staging-142749/7021f4a0-2640-11ee-8a94-12ef95bdaa75",
+      "AmplifyAppId": "d2p4xz82wfyoou"
+    }
+  }
+}
